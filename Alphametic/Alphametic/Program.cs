@@ -24,10 +24,6 @@ namespace Temp
 
     public class Word
     {
-        //*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*//
-        //* Sergey A. Lazarev  Kaliningrad, 2017 *//
-        //+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-//
-
         public const int NUM_SYS = 27;
         public const int MAX_WORD_LEN = 19;
         //---------------------------------
