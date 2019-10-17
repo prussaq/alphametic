@@ -1,7 +1,7 @@
 # Alphametic
-S.A. Lazarev Kaliningrad, 2017
-clazarew@gmail.com
-http://salazarev.blogspot.ru/
+S.A. Lazarev, Kaliningrad, 2017
+prussaq@gmail.com
+http://prussaq.blogspot.ru/
 
 
 #Alphabet arithmetic and fuzzy binary search words-numbers
