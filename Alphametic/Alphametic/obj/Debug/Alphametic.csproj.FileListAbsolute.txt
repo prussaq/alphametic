@@ -1,0 +1,6 @@
+D:\OneDrive\Projects\Alphametic\Alphametic\bin\Debug\Alphametic.exe.config
+D:\OneDrive\Projects\Alphametic\Alphametic\bin\Debug\Alphametic.exe
+D:\OneDrive\Projects\Alphametic\Alphametic\bin\Debug\Alphametic.pdb
+D:\OneDrive\Projects\Alphametic\Alphametic\obj\Debug\Alphametic.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\Alphametic\Alphametic\obj\Debug\Alphametic.exe
+D:\OneDrive\Projects\Alphametic\Alphametic\obj\Debug\Alphametic.pdb
