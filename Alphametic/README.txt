@@ -1,7 +1,7 @@
 # Alphametic
 S.A. Lazarev, Kaliningrad, 2017
 prussaq@gmail.com
-http://prussaq.blogspot.ru/
+https://www.codeproject.com/Articles/1174033/Alphabet-Arithmetic-and-Fuzzy-Binary-Search-Words
 
 
 #Alphabet arithmetic and fuzzy binary search words-numbers
